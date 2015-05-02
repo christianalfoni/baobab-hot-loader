@@ -1,0 +1,31 @@
+{
+  "name": "baobab-hot-loader",
+  "version": "0.1.0",
+  "description": "Using Webpack hot replacement update your application state without reload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianalfoni/baobab-hot-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "baobab",
+    "hot"
+  ],
+  "author": "Christian Alfoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christianalfoni/baobab-hot-loader/issues"
+  },
+  "homepage": "https://github.com/christianalfoni/baobab-hot-loader",
+  "devDependencies": {
+    "baobab": "^1.0.2",
+    "react": "^0.13.2"
+  },
+  "peerDependencies": {
+    "baobab-react": "^0.2.0"
+  }
+}
