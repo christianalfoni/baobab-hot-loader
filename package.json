@@ -26,6 +26,7 @@
     "react": "^0.13.2"
   },
   "peerDependencies": {
-    "baobab-react": "^0.2.0"
+    "baobab-react": "^0.2.0",
+    "deep-diff": "^0.3.2"
   }
 }
